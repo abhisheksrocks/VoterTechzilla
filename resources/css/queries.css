@@ -1,0 +1,24 @@
+@media only screen and (max-width: 480px) {
+  .log-sign{
+    text-align: center;
+  }
+
+  .logo{
+    display: block;
+    margin: 0 auto;
+  }
+
+  input[type="submit"]{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .prof select{
+    width: 100%;
+  }
+
+  .search input[type="text"]{
+  width: 93%;
+}
+}
